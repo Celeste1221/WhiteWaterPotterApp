@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "CF-Portfolio",
+    "slug": "CF-Portfolio",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
