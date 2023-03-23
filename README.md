@@ -1,2 +1,3 @@
 # WhiteWaterPotterApp
-README in progress
+## A mock small business sales app with REACT 
+
