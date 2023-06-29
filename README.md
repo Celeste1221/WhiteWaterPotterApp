@@ -1,3 +1,3 @@
 # WhiteWaterPotterApp
-#### A mock small business sales app with REACT 
+#### A mock small business cross platform application with REACT 
 
